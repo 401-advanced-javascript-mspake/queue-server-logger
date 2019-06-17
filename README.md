@@ -21,4 +21,4 @@
 * What assertions need to be / should be made?  All of them.  
   
 #### UML  
-![uml](https://github.com/401-advanced-javascript-mspake/queue-server-logger/tree/logger/assets/uml.jpg)
+![uml](https://github.com/401-advanced-javascript-mspake/queue-server-logger/blob/logger/assets/uml.jpg)
