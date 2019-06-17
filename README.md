@@ -19,5 +19,5 @@
 * What assertions were made?  None yet. (We have not learned how to test this)  
 * What assertions need to be / should be made?  All of them.  
   
-<!-- #### UML  
-![uml]() -->
+#### UML  
+![uml](https://github.com/401-advanced-javascript-mspake/queue-server-logger/tree/logger/assets/uml.jpg)
