@@ -7,6 +7,7 @@
   
 ### Links and Resources  
 * [submission PR](https://github.com/401-advanced-javascript-mspake/queue-server-logger/pull/1)  
+* [Azure Deployment](https://queue-logger.azurewebsites.net)  
   
 ### Modules  
 #### `logger.js`  
