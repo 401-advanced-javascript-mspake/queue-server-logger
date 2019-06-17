@@ -1,5 +1,6 @@
 'use strict';
 
+require('dotenv').config();
 const Client = require('@nmq/q/client');
 
 const database = new Client('database');
